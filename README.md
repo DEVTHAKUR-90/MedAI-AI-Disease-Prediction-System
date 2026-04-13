@@ -53,7 +53,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://med-ai-ai-disease-prediction-system.vercel.app
 
 ---
 
