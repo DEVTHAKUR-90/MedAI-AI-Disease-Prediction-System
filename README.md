@@ -182,12 +182,6 @@ Cybersecurity enthusiast and developer passionate about building intelligent sys
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
   <sub>Built with ❤️ by Dev Thakur</sub>
 </div>
