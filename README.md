@@ -126,7 +126,7 @@ The system analyses the user's selected symptoms against a predefined disease da
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/medai.git
+git clone https://github.com/DEVTHAKUR-90/MedAI-AI-Disease-Prediction-System.git
 
 # Navigate into the project directory
 cd medai
