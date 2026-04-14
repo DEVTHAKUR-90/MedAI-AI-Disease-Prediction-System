@@ -178,7 +178,7 @@ Contributions are welcome and appreciated. To contribute:
 
 Cybersecurity enthusiast and developer passionate about building intelligent systems and solving real-world problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevThakur-181717?style=flat-square&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-DevThakur-181717?style=flat-square&logo=github)](https://github.com/DEVTHAKUR-90)
 
 ---
 
